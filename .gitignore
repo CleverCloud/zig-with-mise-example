@@ -1,0 +1,7 @@
+# Build output
+/server
+/server.o
+.zig-cache/
+
+# Clever Cloud link
+.clever.json
